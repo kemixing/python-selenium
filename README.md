@@ -8,6 +8,6 @@
 为什么呢？
 
 由于python的流行、时尚、简洁、实用，so we choose it.
-selenium是web应用目前最主流的自动化测试工具，可以直接运行在浏览器中，就像真正的用户在操作一样。so we choose it.
+selenium是web应用目前最主流的自动化测试工具，可以直接运行在浏览器中，就像真正的用户在操作一样， so we choose it.
 
 '''
